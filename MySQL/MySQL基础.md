@@ -1,6 +1,4 @@
----
-typora-copy-images-to: images
----
+
 
 #### 1. MySQL服务器的连接和退出
 
@@ -343,9 +341,9 @@ typora-copy-images-to: images
   - 表之间的关系
     1. 一对一（不需要拆分）
     2. 一对多（需要拆分）
-       - ![表与表关系_一对多](E:\it666\note\MySQL\images\表与表关系_一对多.png)
+       - ![表与表关系_一对多](images/表与表关系_一对多.png)
     3. 多对多（需要拆分）
-       - ![表与表关系_多对多](E:\it666\note\MySQL\images\表与表关系_多对多.png)
+       - ![表与表关系_多对多](images/表与表关系_多对多.png)
 
 ###### 6.3.2 外键
 
