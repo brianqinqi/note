@@ -1,7 +1,3 @@
----
-typora-copy-images-to: images
----
-
 ### 1. 导入方法
 
 1. 传统下载导入
